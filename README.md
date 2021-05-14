@@ -13,7 +13,7 @@ Features:
 - UI which appears when hitting max Speed
 - get money by reaching max Speed limits
 
-- Simply add new Speedzones in client.lua
+- Simply add new Speedzones in client/main.lua
 
 This script is based on esx_speedcamera: https://github.com/P4NDAzzGaming/esx_speedcamera
 
