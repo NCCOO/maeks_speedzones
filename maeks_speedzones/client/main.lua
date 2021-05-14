@@ -1,4 +1,4 @@
--- Script made by Maeks -- Version 1.0.1 --
+-- Script made by Maeks -- Version 1.0.0 --
 
 
 local BlitzerBildschirm = true 
