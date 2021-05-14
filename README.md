@@ -35,4 +35,4 @@ Installation:
 
 The script is free to use and customizable!
 
-"5Maeks"
+5Maeks
