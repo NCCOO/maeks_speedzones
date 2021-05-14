@@ -19,9 +19,9 @@ This script is based on esx_speedcamera: https://github.com/P4NDAzzGaming/esx_sp
 
 Installation:
 
--Move maeks_speedzones into your resource folder.
--Make sure you type ensure maeks_speedzones into your server.cfg
--Start/Restart your server | Done!
+- Move maeks_speedzones into your resource folder.
+- Make sure you type ensure maeks_speedzones into your server.cfg
+- Start/Restart your server | Done!
 
 -----------------------------------------------------
 
