@@ -13,8 +13,15 @@ Features:
 - UI which appears when hitting max Speed
 - get money by reaching max Speed limits
 
-This script is based on esx_speedcamera.
-esx_speedcamera: https://github.com/P4NDAzzGaming/esx_speedcamera
+This script is based on esx_speedcamera: https://github.com/P4NDAzzGaming/esx_speedcamera
+
+-----------------------------------------------------
+
+Installation:
+
+-Move maeks_speedzones into your resource folder.
+-Make sure you type ensure maeks_speedzones into your server.cfg
+-Start/Restart your server | Done!
 
 -----------------------------------------------------
 
