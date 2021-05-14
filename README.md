@@ -17,6 +17,12 @@ This script is based on esx_speedcamera: https://github.com/P4NDAzzGaming/esx_sp
 
 -----------------------------------------------------
 
+Requirements:
+
+- Es_extended: https://github.com/esx-framework/es_extended
+
+-----------------------------------------------------
+
 Installation:
 
 - Move maeks_speedzones into your resource folder.
