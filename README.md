@@ -9,11 +9,11 @@ English and French versions are published soon!
 
 Features:
 
-- Adds Speedzones to the map (150 km/h | 200 km/h | 300 km/h)
+- Adds Speedzones to the map "(150 km/h | 200 km/h | 300 km/h)"
 - UI which appears when hitting max Speed
 - get money by reaching max Speed limits
 
-- Simply add new Speedzones in client/main.lua
+- Simply add new Speedzones in "client/main.lua"
 
 This script is based on esx_speedcamera: https://github.com/P4NDAzzGaming/esx_speedcamera
 
@@ -27,12 +27,12 @@ Requirements:
 
 Installation:
 
-- Move maeks_speedzones into your resource folder.
-- Make sure you type ensure maeks_speedzones into your server.cfg
-- Start/Restart your server | Done!
+- Move "maeks_speedzones" into your resource folder.
+- Make sure you type ensure maeks_speedzones into your "server.cfg"
+- "Start/Restart" your server | Done!
 
 -----------------------------------------------------
 
 The script is free to use and customizable!
 
-5Maeks
+"5Maeks"
